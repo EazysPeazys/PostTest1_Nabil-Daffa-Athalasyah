@@ -26,3 +26,21 @@ Intinya, pada bagian ini adalah struktur dasar tampilan menu interaktif di mana 
 
 <img width="489" height="97" alt="Screenshot 2025-09-10 091553" src="https://github.com/user-attachments/assets/c1684d92-8ddb-47ae-a675-db2d8e691eb4" />
 <img width="855" height="265" alt="Screenshot 2025-09-10 091600" src="https://github.com/user-attachments/assets/764b57f1-e48f-4445-9065-794e6ee524fd" />
+
+3). Ketika pengguna memilih menu nomor 1, program akan masuk ke blok case 1. Pada bagian ini, program menampilkan judul "Tambah Aset Investasi" agar pengguna tahu sedang berada di menu tambah aset.
+
+Kemudian, program meminta pengguna untuk memasukkan nama aset investasi, misalnya Emas, Saham, Crypto, Obligasi, atau Reksa Dana, melalui perintah System.out.print(). Input dari pengguna dibaca menggunakan input.nextLine() dan disimpan ke dalam variabel namaAset.
+
+Setelah itu, nilai yang dimasukkan pengguna ditambahkan ke dalam ArrayList aset dengan perintah aset.add(namaAset). Hal ini berarti data baru langsung tersimpan di dalam daftar aset yang sedang dikelola oleh program.
+
+Sebagai konfirmasi, program menampilkan pesan "Aset berhasil ditambahkan!" agar pengguna tahu bahwa data yang dimasukkan sudah tercatat. Blok case ini diakhiri dengan break; supaya program tidak melanjutkan ke pilihan menu lain.
+
+Jadi singkatnya, pada bagian ini adalah proses untuk menambahkan data aset baru ke dalam daftar aset investasi yang disimpan dalam ArrayList.
+
+<img width="910" height="191" alt="Screenshot 2025-09-10 091613" src="https://github.com/user-attachments/assets/b9deb706-de3b-45c1-a2b6-507562aaba42" />
+
+4). Pada bagian pilihan 2 (Lihat Aset), program digunakan untuk menampilkan daftar aset investasi yang sudah tersimpan. Pertama, program menampilkan judul “Daftar Aset Investasi” agar pengguna mengetahui menu yang sedang dijalankan. Selanjutnya, program memeriksa apakah daftar aset pada ArrayList masih kosong menggunakan perintah aset.isEmpty(). Jika daftar masih kosong, maka ditampilkan pesan “Belum ada data aset Investasi yang ditambahkan.”. Namun, jika terdapat data, program akan menampilkan seluruh aset yang tersimpan dengan menggunakan perulangan for, di mana setiap aset dicetak lengkap dengan nomor urut dan nama asetnya. Dengan demikian, menu ini berfungsi untuk memudahkan pengguna melihat semua data aset yang sudah dimasukkan sebelumnya.
+
+<img width="812" height="234" alt="Screenshot 2025-09-10 091620" src="https://github.com/user-attachments/assets/cb68a2c4-7639-4d4f-8377-79884ab09d24" />
+
+5). 
