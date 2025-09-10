@@ -80,7 +80,25 @@ Pada bagian menu tambah aset, disini saya memilih opsi nomor 1 kemudian memasukk
 
 
 ***Sebelum:**
+
 <img width="388" height="158" alt="Screenshot 2025-09-10 111553" src="https://github.com/user-attachments/assets/a2148477-d0db-4726-b631-b4442b822257" />
 
 ***Setelah:**
+
 <img width="325" height="72" alt="Screenshot 2025-09-10 111605" src="https://github.com/user-attachments/assets/9b3c670c-2a6e-470d-88b1-d306ef876429" />
+
+4). (HAPUS ASET)
+
+
+***Sebelum:**
+
+<img width="405" height="142" alt="Screenshot 2025-09-10 111634" src="https://github.com/user-attachments/assets/58f580dc-66b4-49de-ac09-9c517c52e112" />
+
+***Setelah:**
+
+<img width="360" height="82" alt="Screenshot 2025-09-10 111647" src="https://github.com/user-attachments/assets/565623c0-9b4d-4866-8758-4418b2e55f55" />
+
+5.) (KELUAR)
+
+
+<img width="504" height="65" alt="Screenshot 2025-09-10 111700" src="https://github.com/user-attachments/assets/5d938603-b69a-47d6-b7e7-86ed5da61000" />
