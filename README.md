@@ -39,8 +39,28 @@ Jadi singkatnya, pada bagian ini adalah proses untuk menambahkan data aset baru 
 
 <img width="910" height="191" alt="Screenshot 2025-09-10 091613" src="https://github.com/user-attachments/assets/b9deb706-de3b-45c1-a2b6-507562aaba42" />
 
-4). Pada bagian pilihan 2 (Lihat Aset), program digunakan untuk menampilkan daftar aset investasi yang sudah tersimpan. Pertama, program menampilkan judul “Daftar Aset Investasi” agar pengguna mengetahui menu yang sedang dijalankan. Selanjutnya, program memeriksa apakah daftar aset pada ArrayList masih kosong menggunakan perintah aset.isEmpty(). Jika daftar masih kosong, maka ditampilkan pesan “Belum ada data aset Investasi yang ditambahkan.”. Namun, jika terdapat data, program akan menampilkan seluruh aset yang tersimpan dengan menggunakan perulangan for, di mana setiap aset dicetak lengkap dengan nomor urut dan nama asetnya. Dengan demikian, menu ini berfungsi untuk memudahkan pengguna melihat semua data aset yang sudah dimasukkan sebelumnya.
+4). Pada bagian pilihan 2 (Lihat Aset), program digunakan untuk menampilkan daftar aset investasi yang sudah tersimpan. Pertama, program menampilkan judul “Daftar Aset Investasi” agar pengguna mengetahui menu yang sedang dijalankan. Selanjutnya, program memeriksa apakah daftar aset pada ArrayList masih kosong menggunakan perintah aset.isEmpty(). Jika daftar masih kosong, maka ditampilkan pesan “Belum ada data aset Investasi yang ditambahkan.”. Namun, jika terdapat data, program akan menampilkan seluruh aset yang tersimpan dengan menggunakan perulangan for, di mana setiap aset dicetak lengkap dengan nomor urut dan nama asetnya. 
+
+Intinya, menu ini berfungsi untuk memudahkan pengguna melihat semua data aset yang sudah dimasukkan sebelumnya.
 
 <img width="812" height="234" alt="Screenshot 2025-09-10 091620" src="https://github.com/user-attachments/assets/cb68a2c4-7639-4d4f-8377-79884ab09d24" />
 
-5). 
+5). Pada menu Hapus Aset, program digunakan untuk menghapus data aset yang sudah tersimpan. Pertama, program menampilkan judul “Hapus Aset Investasi”. Setelah itu, dilakukan pengecekan apakah daftar aset kosong atau tidak dengan aset.isEmpty(). Jika daftar kosong, maka ditampilkan pesan “Belum ada data aset untuk dihapus.”.
+
+Namun, jika terdapat data, program akan menampilkan seluruh daftar aset lengkap dengan nomor urutnya. Kemudian pengguna diminta untuk memilih nomor aset yang ingin dihapus. Nomor aset yang dipilih disimpan pada variabel indexHapus.
+
+Selanjutnya, program memeriksa apakah nomor yang dimasukkan valid (lebih besar dari 0 dan tidak melebihi jumlah aset yang tersedia). Jika valid, aset pada posisi tersebut akan dihapus dari daftar menggunakan perintah aset.remove(indexHapus - 1). Setelah berhasil, program menampilkan pesan “Aset berhasil dihapus!”. Sebaliknya, jika nomor aset tidak valid, program akan menampilkan pesan “Nomor aset tidak valid! Silahkan Coba Lagi!”.
+
+Jadi, pada menu ini berfungsi untuk menghapus data aset tertentu dari daftar investasi sesuai pilihan pengguna.
+
+<img width="847" height="441" alt="Screenshot 2025-09-10 091638" src="https://github.com/user-attachments/assets/6f652b1f-f87a-43ae-a507-682d978675e6" />
+
+6). Pada menu Keluar, program menampilkan pesan “Terima kasih! Sampai jumpa lagi!” sebagai ucapan penutup sebelum keluar dari sistem. Setelah itu, program akan berhenti karena kondisi perulangan do...while tidak terpenuhi lagi ketika pilihan == 5.
+
+Selain itu, terdapat bagian default yang digunakan untuk menangani input tidak valid. Jika pengguna memasukkan nomor menu di luar pilihan 1 sampai 5, maka akan ditampilkan pesan “Pilihan yang anda masukkan tidak valid! Silahkan Coba lagi!” sehingga pengguna diarahkan untuk memilih ulang menu dengan benar.
+
+Terakhir, setelah keluar dari perulangan, objek Scanner ditutup menggunakan input.close() agar tidak terjadi kebocoran sumber daya.
+
+Jadi, bagian ini berfungsi sebagai penutup program sekaligus memastikan bahwa input yang salah bisa ditangani dengan baik, sehingga program tetap berjalan lancar sampai pengguna memilih keluar.
+
+<img width="967" height="261" alt="Screenshot 2025-09-10 091705" src="https://github.com/user-attachments/assets/a427a942-4d9f-4454-afdc-007dd4c36f2b" />
