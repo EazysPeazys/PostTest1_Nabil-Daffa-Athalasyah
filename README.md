@@ -11,3 +11,6 @@ Kelas: C 2024
 
 # GAMBAR FULL OUTPUT CODINGAN JAVA
 <img width="556" height="223" alt="Screenshot 2025-09-10 110954" src="https://github.com/user-attachments/assets/8ba2fadd-9fad-421a-9e7f-18f29cc198f5" />
+DISINI BLA BLA BLA
+
+# PENJELASAN INPUT CODINGAN JAVA
