@@ -1,4 +1,4 @@
-# POSTTEST 1 PEMROGRAMAN BERORIENTASI OBJEK (MANAJEMEN DATA ASET INVESTASI)
+# POST-TEST 1 PEMROGRAMAN BERORIENTASI OBJEK (MANAJEMEN DATA ASET INVESTASI)
 
 Nama: Nabil Daffa Athalasyah
 NIM: 2409116090
@@ -66,17 +66,17 @@ Jadi, bagian ini berfungsi sebagai penutup program sekaligus memastikan bahwa in
 <img width="967" height="261" alt="Screenshot 2025-09-10 091705" src="https://github.com/user-attachments/assets/a427a942-4d9f-4454-afdc-007dd4c36f2b" />
 
 # D. PENJELASAN OUTPUT CODINGAN JAVA
-1). (TAMBAH ASET)
+1). **(TAMBAH ASET)**
 Pada bagian menu tambah aset, disini saya memilih opsi nomor 1 kemudian memasukkan jenis aset berupa Emas. Setelah itu, sistem menampilkan pesan konfirmasi bahwa aset saya berupa Emas, berhasil ditambahkan.
 
 <img width="637" height="128" alt="Screenshot 2025-09-10 111050" src="https://github.com/user-attachments/assets/f361681b-3e82-4809-8f8e-a9c3019bc938" />
 
-2). (LIHAT ASET)
+2). **(LIHAT ASET)**
 
 
 <img width="482" height="98" alt="Screenshot 2025-09-10 111452" src="https://github.com/user-attachments/assets/ea1f7d54-d8ae-4fab-8905-6fbd4b33b09d" />
 
-3). (UBAH ASET)
+3). **(UBAH ASET)**
 
 
 ***Sebelum:**
@@ -87,7 +87,7 @@ Pada bagian menu tambah aset, disini saya memilih opsi nomor 1 kemudian memasukk
 
 <img width="325" height="72" alt="Screenshot 2025-09-10 111605" src="https://github.com/user-attachments/assets/9b3c670c-2a6e-470d-88b1-d306ef876429" />
 
-4). (HAPUS ASET)
+4). **(HAPUS ASET)**
 
 
 ***Sebelum:**
@@ -98,7 +98,7 @@ Pada bagian menu tambah aset, disini saya memilih opsi nomor 1 kemudian memasukk
 
 <img width="360" height="82" alt="Screenshot 2025-09-10 111647" src="https://github.com/user-attachments/assets/565623c0-9b4d-4866-8758-4418b2e55f55" />
 
-5.) (KELUAR)
+5.) **(KELUAR)**
 
 
 <img width="504" height="65" alt="Screenshot 2025-09-10 111700" src="https://github.com/user-attachments/assets/5d938603-b69a-47d6-b7e7-86ed5da61000" />
