@@ -67,17 +67,20 @@ Jadi, bagian ini berfungsi sebagai penutup program sekaligus memastikan bahwa in
 
 # D. PENJELASAN OUTPUT CODINGAN JAVA
 1). **(TAMBAH ASET)**
+
 Pada bagian menu tambah aset, disini saya memilih opsi nomor 1 kemudian memasukkan jenis aset berupa Emas. Setelah itu, sistem menampilkan pesan konfirmasi bahwa aset saya berupa Emas, berhasil ditambahkan.
 
 <img width="637" height="128" alt="Screenshot 2025-09-10 111050" src="https://github.com/user-attachments/assets/f361681b-3e82-4809-8f8e-a9c3019bc938" />
 
 2). **(LIHAT ASET)**
 
+Kemudian pada bagian menu, saya memilih opsi nomor 2 untuk melihat apakah aset yang saya masukkan berupa Emas sudah di tambahkan ke dalam daftar aset investasi tersebut. Apabila sudah di tambahkan berarti aset sudah tercatat ke dalam program.
 
 <img width="482" height="98" alt="Screenshot 2025-09-10 111452" src="https://github.com/user-attachments/assets/ea1f7d54-d8ae-4fab-8905-6fbd4b33b09d" />
 
 3). **(UBAH ASET)**
 
+Kemudian pada bagian ini, saya ingin mengubah aset investasi yang telah saya masukkan dengan memilih opsi nomor 3, setelah itu saya memilih aset mana yang akan saya ubah dengan mengubah aset Emas menjadi Reksa Dana. Apabila berhasil maka nama aset investasi tersebut telah berhasil di ubah.
 
 ***Sebelum:**
 
@@ -89,6 +92,7 @@ Pada bagian menu tambah aset, disini saya memilih opsi nomor 1 kemudian memasukk
 
 4). **(HAPUS ASET)**
 
+Kemudian setelah di ubah, pada bagian ini saya ingin menghapus aset investasi yang ada di dalam daftar, kemudian saya memilih opsi nomor 4 untuk menghapus aset investasi dari dalam daftar tersebut. Apabila berhasil maka nama aset investasi yang ada di dalam daftar akan terhapus dari program.
 
 ***Sebelum:**
 
@@ -100,5 +104,6 @@ Pada bagian menu tambah aset, disini saya memilih opsi nomor 1 kemudian memasukk
 
 5.) **(KELUAR)**
 
+Kemudian pada tahap akhir saya ingin keluar dari program data aset investasi dengan cara memilih opsi nomor 5 untuk keluar dari program tersebut. Dan program dinyatakan selesai terjalankan.
 
 <img width="504" height="65" alt="Screenshot 2025-09-10 111700" src="https://github.com/user-attachments/assets/5d938603-b69a-47d6-b7e7-86ed5da61000" />
