@@ -67,7 +67,20 @@ Jadi, bagian ini berfungsi sebagai penutup program sekaligus memastikan bahwa in
 
 # D. PENJELASAN OUTPUT CODINGAN JAVA
 1). (TAMBAH ASET)
-Pada bagian menu tambah aset, disini pengguna memilih opsi nomor 1 kemudian memasukkan jenis aset berupa Emas. Setelah itu, sistem menampilkan pesan konfirmasi bahwa aset berhasil ditambahkan.
+Pada bagian menu tambah aset, disini saya memilih opsi nomor 1 kemudian memasukkan jenis aset berupa Emas. Setelah itu, sistem menampilkan pesan konfirmasi bahwa aset saya berupa Emas, berhasil ditambahkan.
 
 <img width="637" height="128" alt="Screenshot 2025-09-10 111050" src="https://github.com/user-attachments/assets/f361681b-3e82-4809-8f8e-a9c3019bc938" />
 
+2). (LIHAT ASET)
+
+
+<img width="482" height="98" alt="Screenshot 2025-09-10 111452" src="https://github.com/user-attachments/assets/ea1f7d54-d8ae-4fab-8905-6fbd4b33b09d" />
+
+3). (UBAH ASET)
+
+
+***Sebelum:**
+<img width="388" height="158" alt="Screenshot 2025-09-10 111553" src="https://github.com/user-attachments/assets/a2148477-d0db-4726-b631-b4442b822257" />
+
+***Setelah:**
+<img width="325" height="72" alt="Screenshot 2025-09-10 111605" src="https://github.com/user-attachments/assets/9b3c670c-2a6e-470d-88b1-d306ef876429" />
