@@ -64,3 +64,10 @@ Terakhir, setelah keluar dari perulangan, objek Scanner ditutup menggunakan inpu
 Jadi, bagian ini berfungsi sebagai penutup program sekaligus memastikan bahwa input yang salah bisa ditangani dengan baik, sehingga program tetap berjalan lancar sampai pengguna memilih keluar.
 
 <img width="967" height="261" alt="Screenshot 2025-09-10 091705" src="https://github.com/user-attachments/assets/a427a942-4d9f-4454-afdc-007dd4c36f2b" />
+
+# PENJELASAN OUTPUT CODINGAN JAVA
+1). (TAMBAH ASET)
+Pada bagian menu tambah aset, disini
+
+<img width="637" height="128" alt="Screenshot 2025-09-10 111050" src="https://github.com/user-attachments/assets/f361681b-3e82-4809-8f8e-a9c3019bc938" />
+
